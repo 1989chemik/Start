@@ -3,6 +3,8 @@ R = 8.314             # J/(mol*K)
 T = 293.15            # K (20°C)
 V = 40.0              # m^3
 
+#Typowy pokój 15m^2
+
 while True:
     user_input = input("\nPodaj ilość dostarczonej wody [g] (q = wyjście): ")
 
