@@ -26,8 +26,9 @@ while True:
 
     print("\nWYNIKI:")
     print(f"Liczba moli: {n:.2f} mol")
+    print(f"Ciśnienie: {pressure_bar:.6f} bar")
     print(f"Ciśnienie: {pressure_pa:.2f} Pa")
     print(f"Ciśnienie: {pressure_hpa:.2f} hPa")
     print(f"Ciśnienie: {pressure_kpa:.4f} kPa")
-    print(f"Ciśnienie: {pressure_bar:.6f} bar")
+
 
